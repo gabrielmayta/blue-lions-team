@@ -30,6 +30,7 @@ let Header = React.createClass({
                                 </li>
                                 <li>
                                     <a href="#">Punto Sangatti</a>
+
                                 </li>
                                 <li>
                                     <a href="#">Arruolati</a>
