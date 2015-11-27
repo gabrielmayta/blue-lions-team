@@ -21,6 +21,7 @@ let Header = React.createClass({
                             <a href="#" className="button-collapse">
                                 <i className="material-icons">menu</i>
                             </a>
+
                             <ul className="right hide-on-med-and-down">
                                 <li>
                                     <a href="#">Rosa 2015/2016</a>
