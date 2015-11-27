@@ -12,7 +12,7 @@ let Home = React.createClass({
 
     render() {
         return (
-            <header/>
+            <h1>Ciao Nello!</h1>
         );
     }
 
