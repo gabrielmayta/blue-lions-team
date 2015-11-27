@@ -1,0 +1,14 @@
+.idea
+node_modules
+public/.idea
+public/*.jpg
+public/*.png
+public/*.gif
+public/*.woff
+public/*.woff2
+public/*.eot
+public/*.svg
+public/*.ttf
+public/*.js
+public/*.css
+public/*.json
