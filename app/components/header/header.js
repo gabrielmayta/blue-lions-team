@@ -20,6 +20,7 @@ let Header = React.createClass({
                             <a href="#" className="brand-logo">Logo</a>
                             <a href="#" className="button-collapse">
                                 <i className="material-icons">menu</i>
+
                             </a>
                             <ul className="right hide-on-med-and-down">
                                 <li>
