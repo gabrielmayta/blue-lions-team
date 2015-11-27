@@ -26,6 +26,7 @@ let Header = React.createClass({
                                     <a href="#">Rosa 2015/2016</a>
                                 </li>
                                 <li>
+
                                     <a href="#">Punto Sangatti</a>
                                 </li>
                                 <li>
