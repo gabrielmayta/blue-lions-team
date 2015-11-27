@@ -24,6 +24,7 @@ let Header = React.createClass({
                             <ul className="right hide-on-med-and-down">
                                 <li>
                                     <a href="#">Rosa 2015/2016</a>
+
                                 </li>
                                 <li>
                                     <a href="#">Punto Sangatti</a>
