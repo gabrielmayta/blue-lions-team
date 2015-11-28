@@ -17,9 +17,6 @@ let Slider = React.createClass({
     },
 
     componentDidMount() {
-
-        console.log(this.props);
-
         var slides = new Swiper(".tab", {
             direction: "horizontal",
             allowSwipeToPrev: false,
@@ -36,7 +33,7 @@ let Slider = React.createClass({
             return (
                 <div key={player.id} className="swiper-slide" style={{height: self.state.height}}>
                     <div className="swiper-player-overlay"></div>
-                    <div className="swiper-player" style={{backgroundImage: "url(\"http://ste.india.com/sites/default/files/2015/04/14/346365-messi.jpg\")"}}>
+                    <div className="swiper-player" style={{backgroundImage: "url("+ player.photo  + ")"}}>
                         <div className="player-box-info">
                             <div className="player-box-left">
                                 <div className="player-number">{player.number}</div>

@@ -4,27 +4,31 @@
     "firstname": "Mariano",
     "lastname": "Matera",
     "number": 1,
-    "position": "Portiere"
+    "position": "Portiere",
+    "photo": "https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/314634_2286368172764_2052191868_n.jpg?oh=cfa18e9fffa7f33416f878fe0b596393&oe=56EBA63A"
   },
   {
     "id": 1,
     "firstname": "Benedetto",
     "lastname": "Moro",
     "number": 4,
-    "position": "Difensore"
+    "position": "Difensore",
+    "photo": "https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/12118644_1486459118324390_2337602522899184021_n.jpg?oh=3b29e149f0395fb2e22127ee5b0b521d&oe=56EF7E9C"
   },
   {
     "id": 2,
     "firstname": "Andrea",
     "lastname": "De Felice",
     "number": 5,
-    "position": "Difensore"
+    "position": "Difensore",
+    "photo":"https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10563030_10204271591420132_1001004657438138286_n.jpg?oh=aeb68adf2269db26742e27e7c30bca7e&oe=56F619DA"
   },
   {
     "id": 3,
     "firstname": "Gabriel",
     "lastname": "Mayta",
     "number": 7,
-    "position": "Attacante"
+    "position": "Attacante",
+    "photo":"https://scontent-mxp1-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/s720x720/1457499_10202660831107736_1924604279_n.jpg?oh=185b75995528802422f039de38b980e8&oe=56F8F5F0"
   }
 ]
