@@ -1,0 +1,30 @@
+[
+  {
+    "id": 0,
+    "firstname": "Mariano",
+    "lastname": "Matera",
+    "number": 1,
+    "position": "Portiere"
+  },
+  {
+    "id": 1,
+    "firstname": "Benedetto",
+    "lastname": "Moro",
+    "number": 4,
+    "position": "Difensore"
+  },
+  {
+    "id": 2,
+    "firstname": "Andrea",
+    "lastname": "De Felice",
+    "number": 5,
+    "position": "Difensore"
+  },
+  {
+    "id": 3,
+    "firstname": "Gabriel",
+    "lastname": "Mayta",
+    "number": 7,
+    "position": "Attacante"
+  }
+]

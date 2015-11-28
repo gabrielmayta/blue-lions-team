@@ -11,7 +11,7 @@
   border: none;
   font-size: 14px;
   box-sizing: border-box;
-  font-family: 'Roboto';
+  font-family: 'roboto-light';
   font-weight: normal;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -21,3 +21,11 @@
   border-radius: 0;
   cursor: default;
 }
+
+@import "variables";
+@import "fonts";
+@import "spinner";
+@import "swiper";
+@import "splashscreen";
+@import "menu";
+@import "swiper-player";

@@ -1,0 +1,55 @@
+.swiper-player {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.swiper-player-overlay {
+  position: absolute;
+  z-index: 10;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.player-box-info {
+  position: absolute;
+  z-index: 10;
+  bottom: 0;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.player-box-left, .player-box-right {
+  float: left;
+}
+
+.player-fullname, .player-position, .player-number {
+  position: relative;
+  float: left;
+  width: 100%;
+  color: $text_icons;
+}
+
+.player-fullname {
+  font-size: 22px;
+}
+
+.player-position {
+  font-size: 16px;
+  font-family: "roboto-thin";
+}
+
+.player-number {
+  margin-top: -6px;
+  padding-right: 10px;
+  font-family: "roboto-bold";
+  font-size: 48px;
+}

@@ -6,13 +6,20 @@
  */
 
 import React            from "react";
+import Slider           from "../../components/slider/Slider";
 
 
 let Home = React.createClass({
 
+    getInitialState(){
+        return {
+            data: require("../../mocks/players.json")
+        }
+    },
+
     render() {
         return (
-            <h1>Ciao Nello!</h1>
+            <Slider data={this.state.data}/>
         );
     }
 

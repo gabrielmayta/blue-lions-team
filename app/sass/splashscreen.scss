@@ -1,0 +1,22 @@
+.splashscreen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #673AB7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #673AB7, #512DA8); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #673AB7, #512DA8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.splashscreen h1 {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  height: 40px;
+  margin-top: -40px;
+  color: $text_icons;
+  font-size: 24px;
+  text-align: center;
+  text-transform: uppercase;
+}
